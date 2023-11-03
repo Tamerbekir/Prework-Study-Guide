@@ -4,7 +4,7 @@
 
 The Prework Study Guide consists of helpful tips when using <strong>HTML</strong>, <strong>CSS</strong>, using <strong>Git</strong> via a computer terminal, as well as Javascript. 
 
-As a beginner to software engineering and a boot camp student, I was able to simultaneously learn how to code using Github, Visual Code Studio, and my computer terminal and create my own study guide webpage- as a way to look back and remember key points, notes, and helpful terms.
+As a beginner to software engineering and a bootcamp student, I was able to simultaneously learn how to code using Github, Visual Code Studio, and my computers terminal and create own study guide webpage- as a way to look back and remember key points, notes, and helpful terms.
 
 ## Installation
 
